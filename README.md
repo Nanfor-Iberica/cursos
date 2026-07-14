@@ -1,4 +1,4 @@
-# cursos# Nanfor Learning Resources
+# Nanfor Learning Resources
 
 Repositorio público de recursos de aprendizaje y rutas formativas desarrolladas por Nanfor.
 
